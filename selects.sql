@@ -3,11 +3,11 @@
 -- ANY - Compare value to **each** value returned by the subquery
 -- ALL - Compare value to **EVERY** value returned by the subquery
 
--- <ANY() - less than maximum
--- >ANY() - more than minimum
--- =ANY() - equivalent to IN
--- >ALL() - more than the maximum
--- <ALL() - less than the minimum
+-- < ANY() - less than maximum
+-- > ANY() - more than minimum
+-- = ANY() - equivalent to IN
+-- > ALL() - more than the maximum
+-- < ALL() - less than the minimum
 
 -- returns all names unless the oldest one 
 select u.name from users_test u
