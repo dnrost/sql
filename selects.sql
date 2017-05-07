@@ -1,7 +1,7 @@
 -- tests with any and some
--- IN- Equal to any member in the list
--- ANY- Compare value to **each** value returned by the subquery
--- ALL- Compare value to **EVERY** value returned by the subquery
+-- IN - Equal to any member in the list
+-- ANY - Compare value to **each** value returned by the subquery
+-- ALL - Compare value to **EVERY** value returned by the subquery
 
 -- <ANY() - less than maximum
 -- >ANY() - more than minimum
