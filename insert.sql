@@ -5,3 +5,4 @@ insert into users_test (name, age) values('Plato', 12);
 insert into users_test (name, age) values('Galileo', 13);
 insert into users_test (name, age) values('Locke', 14);
 insert into users_test (name, age) values('Adam', 15);
+insert into users_test (name, age) values('Adam36', 15);
